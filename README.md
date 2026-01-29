@@ -107,10 +107,11 @@ Screenshots of selected query results are included in the `Screenshots/` folder 
 ---
 
 ## 👤 Author
-**Syed BAsid S**
+**Syed Basid S**
 
 ---
 
 ## 📬 Contact
 Feel free to connect with me on GitHub or LinkedIn for feedback.
+
 
