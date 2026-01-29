@@ -32,32 +32,6 @@ The analysis is based on five tables:
 
 ---
 
-## 🗂 Project Structure
-
-uefa-sql-analysis/
-│
-├── schema/
-│ └── create_tables.sql # database schema (ddl)
-│
-├── sql_queries/
-│ ├── goal_analysis.sql # goal-related analysis
-│ ├── match_analysis.sql # match-level analysis
-│ ├── player_analysis.sql # player performance analysis
-│ ├── team_analysis.sql # team-level insights
-│ ├── stadium_analysis.sql # stadium & attendance analysis
-│ ├── cross_table_analysis.sql # multi-table analysis
-│ └── complex_queries.sql # advanced sql queries
-│
-├── Screenshots/
-│ └── (query result screenshots)
-│
-├── README.md
-└── .gitignore
-
-
-
----
-
 ## 🔍 Key Analysis Performed
 
 ### Goal Analysis
@@ -139,3 +113,4 @@ Screenshots of selected query results are included in the `Screenshots/` folder 
 
 ## 📬 Contact
 Feel free to connect with me on GitHub or LinkedIn for feedback.
+
